@@ -1,7 +1,7 @@
 # DEEP MULTIMODAL EMBEDDINGS (DME)
 This is an implementation of the model DME for the paper "Deep Multimodal learning for Cross-Modal Retrieval: onemodel for all tasks" in [Keras](https://keras.io/).
 
-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865521000908) 
+[Deep multimodal learning for cross-modal retrieval: One model for all tasks](https://www.sciencedirect.com/science/article/abs/pii/S0167865521000908) 
 
 This repository is intended to provide a implementation of the paper for other researchers to build on. For more implementation details, please, check details on the paper.
   
